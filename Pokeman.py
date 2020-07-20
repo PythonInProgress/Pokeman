@@ -54,6 +54,8 @@ class Pokeman:
 # - Every round, there is one Pokeman active
 #	The actie pokeman can type in an Energe, Weapon, or Damage request
 #	This automatically generated energe/weapon/damage request will apply to the active Pokeman
+#
+# Need to find a way to automatically generate the random numbers.
 
 
 def main(args):
